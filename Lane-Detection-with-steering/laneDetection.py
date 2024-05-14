@@ -1,11 +1,11 @@
 ################################################################################
-######## LANE DETECTION PROJECT ################################################
+###################### LANE DETECTION PROJECT ##################################
 ################################################################################
-# BY:           CAN OZCIVELEK
-# DATE:         DECEMBER 2018
+# BY:           Niyanth Hebbar
+# DATE:         May 2024
 #
-# DESCRIPTION:  THIS  PROJECT WAS CREATED  TO DEMONSTRATE HOW  A  LANE DETECTION
-#               SYSTEM WORKS  ON CARS EQUIPPED WITH A FRONT  FACING CAMERA. WITH
+# DESCRIPTION:  THIS  PROJECT WAS CREATED  TO BUILD A  LANE DETECTION
+#               SYSTEM ON CARS EQUIPPED WITH A FRONT  FACING CAMERA WITH
 #               THE HELP OF OPENCV LIBRARIES IT IS POSSIBLE TO DESIGN ALGORITHMS
 #               THAT CAN  IDENTIFY LANE LINES, AND PREDICT STEERING ANGLES, ALSO
 #               WARN  DRIVERS  IF THE CAR IS  DRIFTING  AWAY FROM  CURRENT LANE.
